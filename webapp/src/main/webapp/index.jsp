@@ -1,4 +1,1 @@
-<h1>Hello, welcome to Simple DevOps Project Serge "the 6/6 Man"  !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Serge on learning Devops</h1>
+<h1>Devops is so sweet like $145,000/yr !!!</h1>
